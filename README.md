@@ -4,10 +4,14 @@
 Hi! I'm Azijur Rahaman, a passionate data analyts. I love working on innovative projects.
 
 ## 🏆 Featured Projects
-### 1️⃣ Project Name
-- **Description:** Briefly explain the project.
-- **Tech Stack:** List the technologies used.
-- **Demo:** [Live Link](https://yourproject.com)
+### 1️⃣ A time-series forecasting model using ARIMA
+ to predict the future number of Monkeypox
+ cases in Africa
+- **Description:**  In this project, a well known statistical modeling method named ARIMA has
+ been used to forecast the future number of Monkeypox cases in Africa. The
+ model is developed using sophisticated statistical techniques. 
+- **Tech Stack:** R, Latex, Python.
+- **Demo:** [Live Link]
 - **GitHub Repo:** [Repository Link](https://github.com/yourusername/project)
 
 ### 2️⃣ Another Project
