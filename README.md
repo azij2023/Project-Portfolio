@@ -1,5 +1,5 @@
 # My Project Portfolio
-
+![Portfolio Banner](https://github.com/azij2023/Project-Portfolio/blob/main/Creative%20and%20Minimal%20Portfolio%20Presentation.jpg)
 ## 👋 About Me
 Hi! I'm Azijur Rahaman, a passionate data analyts. I love working on innovative projects.
 
